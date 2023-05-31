@@ -14,3 +14,8 @@ npm run serve
 ```
 npm run build
 ```
+test-voices
+
+test-voices
+
+https://github.com/NShulzhenko/voices-test.git
